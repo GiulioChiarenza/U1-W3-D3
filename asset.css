@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(246, 221, 188);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(119, 1, 1);
+}
+main {
+    text-align: center;
+    border-radius: 20px;
+    border: 1px solid black;
+    margin: 10px;
+    background-color: black;
+    color: white;
+}
+section {
+    background-color:silver;
+    color: black;
+}
+#main-form {
+    color: rgb(119, 1, 1);
+    height: 25px;
+    font-size: 20px;
+}
+button {
+    background-color: silver;
+    color: rgb(119, 1, 1);
+}
